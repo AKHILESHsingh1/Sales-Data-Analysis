@@ -40,12 +40,6 @@ This project visualizes and analyzes retail sales data to help businesses:
 - `Sales Dashboard.pdf`: PDF export of the Power BI dashboard
 - `.pbix` file (if included): Power BI source file for editing and exploration
 
-## 📷 Dashboard Preview
-
-> Add a screenshot here (optional)
-> Example:
-> ![Dashboard Preview](./assets/sales-dashboard-preview.png)
-
 ## 📈 Business Value
 
 This dashboard provides a 360° view of the sales ecosystem, allowing data-driven decisions in areas like:
@@ -62,16 +56,3 @@ To view or edit the dashboard:
 1. Download the `.pbix` file (if provided)
 2. Open it using **Power BI Desktop**
 3. Interact with filters, slicers, and charts to explore the dataset
-
-## 🤝 Let's Connect!
-
-I'm always eager to discuss data analytics, Power BI, and business intelligence.  
-Feel free to connect or share feedback!
-
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/akhileshsingh1)  
-📫 [Email](mailto:akhileshsingh4444@gmail.com)
-
----
-
-**Made with ❤️ by Akhilesh Singh**  
-#PowerBI #SalesDashboard #DataAnalytics #BusinessIntelligence #RetailInsights #GitHubPortfolio
