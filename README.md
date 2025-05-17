@@ -82,8 +82,3 @@ To get started with the project:
 
 ---
 
-## 📬 Contact
-
-For questions or feedback, feel free to reach out via [GitHub Issues](../../issues) or connect with me on [LinkedIn](https://www.linkedin.com).
-
----
