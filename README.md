@@ -1,3 +1,6 @@
+![Sample Image](https://github.com/AKHILESHsingh1/Sales-Data-Analysis/blob/main/Snapshot%20of%20sales%20order%20Data%20Analysis.png)
+
+
 # 📊 Sales Data Analysis Dashboard – Power BI Project
 
 Welcome to the **Sales Data Analysis** project! This repository features a dynamic Power BI dashboard that delivers actionable insights into sales performance, profitability, and customer behavior across various dimensions—such as time, geography, product category, and shipping preferences.
